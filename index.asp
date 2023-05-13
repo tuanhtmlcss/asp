@@ -2,7 +2,7 @@
 <style>
 .thead{
   background-color: rgba(128, 128, 128, 0.458);
-  color: red;
+  
   }
 </style>
 <table class="table">
